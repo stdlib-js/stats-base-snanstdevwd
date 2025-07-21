@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-07-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`a4c984e`](https://github.com/stdlib-js/stdlib/commit/a4c984e1cd0ee9c733b6575c8a2bf669c1ac1190) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`e6caafc`](https://github.com/stdlib-js/stdlib/commit/e6caafc261076eba2325f589f094c8264ba6d8b2) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`c529dc1`](https://github.com/stdlib-js/stdlib/commit/c529dc154f39665750d6f6323baa429a6694bf2c) - **refactor:** update `stats/base/snanstdevwd` native addon from C++ to C [(#4473)](https://github.com/stdlib-js/stdlib/pull/4473) _(by Dhruv Arvind Singh)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
@@ -29,11 +30,12 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Dhruv Arvind Singh
+-   Gururaj Gurram
 -   Philipp Burckhardt
 
 </section>
