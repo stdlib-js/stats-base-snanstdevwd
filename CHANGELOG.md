@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-30)
+## Unreleased (2026-02-07)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`45ed6fc`](https://github.com/stdlib-js/stdlib/commit/45ed6fc6c6eee93a191b1ba9ecf89e058ad3e57d) - **bench:** refractor to use string interpolation in `stats/base/snanstdevwd` [(#10141)](https://github.com/stdlib-js/stdlib/pull/10141) _(by Shubham)_
 -   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`8006652`](https://github.com/stdlib-js/stdlib/commit/800665265e87453d27573506d1e5f3c50e458920) - **chore:** fix C lint errors [(#9360)](https://github.com/stdlib-js/stdlib/pull/9360) _(by Geo Daoyu, Athan Reines)_
 -   [`26d86b8`](https://github.com/stdlib-js/stdlib/commit/26d86b8b1996eebbc5eaeb5a1ce62ba61ade78bf) - **refactor:** update paths _(by Gururaj Gurram)_
@@ -45,7 +46,7 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 6 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
@@ -53,6 +54,7 @@ A total of 6 people contributed to this release. Thank you to the following cont
 -   Geo Daoyu
 -   Gururaj Gurram
 -   Philipp Burckhardt
+-   Shubham
 
 </section>
 
