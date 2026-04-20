@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-04-20)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`fef01bb`](https://github.com/stdlib-js/stdlib/commit/fef01bbe902c33a0efbf8e1a759bcf5cbce50133) - **bench:** refactor to use dynamic memory allocation in `stats/base/snanstdevwd` [(#11639)](https://github.com/stdlib-js/stdlib/pull/11639) _(by Uday Kakade)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Uday Kakade
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)
