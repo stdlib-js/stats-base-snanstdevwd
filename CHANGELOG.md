@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-17)
+## Unreleased (2026-09-30)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8c499f8`](https://github.com/stdlib-js/stdlib/commit/8c499f8abd50c791ea1785ba50a134d3d13005a1) - **test:** migrate `stats/base/snanstdevwd` to ULP-based assertions [(#15708)](https://github.com/stdlib-js/stdlib/pull/15708) _(by Athan Reines)_
 -   [`fef01bb`](https://github.com/stdlib-js/stdlib/commit/fef01bbe902c33a0efbf8e1a759bcf5cbce50133) - **bench:** refactor to use dynamic memory allocation in `stats/base/snanstdevwd` [(#11639)](https://github.com/stdlib-js/stdlib/pull/11639) _(by Uday Kakade)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Uday Kakade
 
 </section>
